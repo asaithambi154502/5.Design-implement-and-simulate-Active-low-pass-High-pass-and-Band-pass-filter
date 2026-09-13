@@ -86,6 +86,9 @@ Let Ri = Rf = 10 KΩ
 
 
   **TABULATION:**
+
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 14 PM (1)" src="https://github.com/user-attachments/assets/ca3a1858-8896-40ab-9853-1b96f98dbde5" />
+
  
 
 
@@ -105,6 +108,9 @@ Let Ri = Rf = 10 KΩ
 
   **TABULATION:**
 
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 15 PM" src="https://github.com/user-attachments/assets/3a069b5d-a9b3-42b1-9ebc-05c15e0645d6" />
+
+
   **BPF:**
   **CIRCUIT DIAGRAM**
 
@@ -118,6 +124,15 @@ Let Ri = Rf = 10 KΩ
 
 
   **TABULATION:**
+
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 15 PM (1)" src="https://github.com/user-attachments/assets/2048bb82-85aa-48b8-8bac-a7f35a378ace" />
+
+  **Graph**
+
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 15 PM (3)" src="https://github.com/user-attachments/assets/7365ed79-49e8-4ef3-907e-11c131bbfbea" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 15 PM (2)" src="https://github.com/user-attachments/assets/4298a9c1-c7f9-4be5-8e2e-43f6f09c9f51" />
+
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -134,6 +149,9 @@ Let Ri = Rf = 10 KΩ
   <img width="512" height="626" alt="image" src="https://github.com/user-attachments/assets/d53a1ffa-6938-4d89-853b-008605ed10b5" />
 
   <img width="517" height="591" alt="image" src="https://github.com/user-attachments/assets/f67dabc8-be32-445f-b61f-ae2e7e0b1c65" />
+
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 16 PM" src="https://github.com/user-attachments/assets/7fbf5637-8e41-43e1-973c-6e1466b5e2d6" />
+
 
 
   
