@@ -74,9 +74,15 @@ Let Ri = Rf = 10 KΩ
 
 **LPF:**
   **CIRCUIT DIAGRAM**
+  
+  <img width="430" height="230" alt="image" src="https://github.com/user-attachments/assets/56290bda-c0ec-4bb1-a03a-f7a0997f8ede" />
+
 
 
   **MODEL GRAPH:**
+
+<img width="463" height="290" alt="image" src="https://github.com/user-attachments/assets/f77547b6-26e1-46f0-a734-53c5d36f83c1" />
+
 
 
   **TABULATION:**
@@ -87,8 +93,14 @@ Let Ri = Rf = 10 KΩ
 **HPF:**
   **CIRCUIT DIAGRAM**
 
+  <img width="527" height="230" alt="image" src="https://github.com/user-attachments/assets/47c6f7ef-f2f7-4b1e-9156-6e4b6f17d64f" />
+
+
 
   **MODEL GRAPH:**
+
+  <img width="567" height="262" alt="image" src="https://github.com/user-attachments/assets/70011b62-57eb-4863-beb6-bfcf4a739be8" />
+
 
 
   **TABULATION:**
@@ -96,8 +108,13 @@ Let Ri = Rf = 10 KΩ
   **BPF:**
   **CIRCUIT DIAGRAM**
 
+<img width="581" height="217" alt="image" src="https://github.com/user-attachments/assets/1bf4ffc9-c4ef-4a83-9d29-68c9d9f33720" />
+
 
   **MODEL GRAPH:**
+
+  <img width="577" height="300" alt="image" src="https://github.com/user-attachments/assets/c603a3cd-cb19-4685-95f0-ed4788249bc6" />
+
 
 
   **TABULATION:**
@@ -113,6 +130,12 @@ Let Ri = Rf = 10 KΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+
+  <img width="512" height="626" alt="image" src="https://github.com/user-attachments/assets/d53a1ffa-6938-4d89-853b-008605ed10b5" />
+
+  <img width="517" height="591" alt="image" src="https://github.com/user-attachments/assets/f67dabc8-be32-445f-b61f-ae2e7e0b1c65" />
+
+
   
 
 **RESULT:**
